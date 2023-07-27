@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Supragya1/Supragya1/blob/main/banner.gif)
+![MasterHead](https://github.com/Supragya1/Supragya1/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Supragya Gandotra</h1>
 <h3 align="center">👋 Hey there! I'm a 2nd-year BTech computer science student from UPES Dehradun, with a passion for coding and technology. As the Design Head at UPES ACM Chapter, I love creating innovative solutions and collaborating with fellow developers to bring ideas to life. My GitHub profile showcases my diverse projects, ranging from web applications to algorithm implementations. Let's connect, learn, and make an impact through coding together! 🚀💻</h3>
 <img align ="right" alt = "coding" width ="330" src ="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
