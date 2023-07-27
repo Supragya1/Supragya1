@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **Data Structures and Algorithms,C, Java,Python**
+- 💬 Ask me about **Data Structures and Algorithms,C, Java and Python**
 
 - 📫 How to reach me **Supragya.107073@stu.upes.ac.in , ssg.gandotra@gmail.com**
 
