@@ -40,8 +40,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/premierpro.png" alt="premiere pro" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/aftereffects.png" alt="after effects" width="40" height="40"/> </a></p>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/premiere%20pro.png" alt="premiere pro" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/aftereffect.png" alt="after effects" width="40" height="40"/> </a></p>
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supragya1&theme=ocean_dark" alt="supragya1"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supragya1&show_icons=true&locale=en&layout=donut&theme=omni" alt="supragya1" height="200" /></p>
