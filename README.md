@@ -16,7 +16,7 @@
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Medal.gif" width="20px" /> *Always* up for a **Cubing Challenge!**
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/wave.gif" width="20px" /> How to **reach** me **Supragya.107073@stu.upes.ac.in** , **ssg.gandotra@gmail.com**
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/powerup.gif" width="20px" /> **Bonus:** I'm keenly *interested* in **development**—be it **Apps**, **Web Platforms**, or **Games**.
-<img src="https://github.com/Supragya1/Supragya1/blob/main/border.gif" width="1100" height="10">
+<img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supragya-gandotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supragya-gandotra" height="30" width="40" /></a>
@@ -47,7 +47,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/premiere%20pro.png" alt="premiere pro" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/aftereffect.png" alt="after effects" width="40" height="40"/> </a></p>
-<img src="https://github.com/Supragya1/Supragya1/blob/main/border.gif" width="1100" height="10">
+<img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supragya1&theme=ocean_dark" alt="supragya1"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supragya1&show_icons=true&locale=en&layout=donut&theme=omni" alt="supragya1" height="200" /></p>
