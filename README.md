@@ -1,17 +1,19 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Hi.gif" width="30" /></a>, I'm Supragya Gandotra</h1>
-<img src="https://github.com/Supragya1/Supragya1/blob/main/border.gif" width="1100" height="10">
-<h3 align="center"><a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Hi.gif" width="20" /></a> Hey there! I'm a 2nd-year BTech computer science student from UPES Dehradun, with a passion for coding and technology. As the Design Head at UPES ACM Chapter, I love creating innovative solutions and collaborating with fellow developers to bring ideas to life. My GitHub profile showcases my diverse projects, ranging from web applications to algorithm implementations. Let's connect, learn, and make an impact through coding together! <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/rocket.gif" width="30" /> </a>💻</h3>
-<img src="https://github.com/Supragya1/Supragya1/blob/main/border.gif" width="1100" height="10">
-<img align ="right" alt = "coding" width ="330" src ="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
+<!-- Andi Mandi Jisne copy kiya uski ..... -->
+![MasterHead](https://github.com/Supragya1/Supragya1/blob/main/Assets/banner.gif)
+<h1 align="center">Hi <a target="_blank" href="#"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Hi.gif" width="30" /></a>, I'm Supragya Gandotra</h1>
+<img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
+<h3 align="center"><a target="_blank" href="#"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Hi.gif" width="20" /></a> Hey! I'm a 2nd-year BTech CS student at UPES Dehradun, passionate about coding, design, and development. As a budding Software Developer <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Developer.gif" width="30px"/> </a> and Design Enthusiast <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Designer.gif" width="30px"/> </a>, I also enjoy speed cubing and fitness. Check out my diverse <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Mario_Hello_Big.gif" width="20px"/> </a>projects on GitHub, ranging from dynamic web apps to precise algorithms. Let's connect, learn, and make an impact through coding!  <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/rocket.gif" width="30" /> </a></h3>
+<img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
+<img align ="right" alt = "coding" width ="330" src ="https://github.com/Supragya1/Supragya1/blob/main/Assets/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supragya1&label=Profile%20views&color=0e75b6&style=flat" alt="supragya1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supragya1&theme=dracula&row=2&column=4" alt="supragya1" /></a> </p>
 
-- 🌱 I’m currently learning *Web development*
-- 💬 Ask me about *Data Structures and Algorithms,C, Java and Python*
-- ⚡ Fun fact: I listen songs while programming
-- 📫 How to reach me **Supragya.107073@stu.upes.ac.in , ssg.gandotra@gmail.com**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/coin.gif" width="20px" /> I’m currently *learning* **Web development**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/hmm.gif" width="20px" /> *Ask* me about **Data Structures** and **Algorithms**,**C**, **Java** and **Python**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/happy-unscreen.gif" width="20px" /> **Fun fact** : I *listen* **songs** while **programming**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/gandalf_parrot.gif" width="20px" /> ***Speedcuber*** with a *swift* **PB** of **15.57s**, *averaging* **18.64s** *two-handed*, and *conquering* **one-handed** solves at an *average* of **35s**. *Always* up     for a **cubing challenge!**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/wave.gif" width="20px" /> How to **reach** me **Supragya.107073@stu.upes.ac.in** , **ssg.gandotra@gmail.com**
 <img src="https://github.com/Supragya1/Supragya1/blob/main/border.gif" width="1100" height="10">
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -41,11 +43,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/premiere%20pro.png" alt="premiere pro" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/aftereffect.png" alt="after effects" width="40" height="40"/> </a></p>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/premiere%20pro.png" alt="premiere pro" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/aftereffect.png" alt="after effects" width="40" height="40"/> </a></p>
 <img src="https://github.com/Supragya1/Supragya1/blob/main/border.gif" width="1100" height="10">
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supragya1&theme=ocean_dark" alt="supragya1"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supragya1&show_icons=true&locale=en&layout=donut&theme=omni" alt="supragya1" height="200" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supragya1&show_icons=true&locale=en&theme=jolly" alt="supragya1" height="200" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supragya1&show_icons=true&locale=en&theme=jolly&icon_color=F8D866" alt="supragya1" height="200" /></p>
 <p><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Supragya1&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
