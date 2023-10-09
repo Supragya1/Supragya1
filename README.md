@@ -1,6 +1,6 @@
 <!-- Andi Mandi Jisne copy kiya uski ..... -->
 ![MasterHead](https://github.com/Supragya1/Supragya1/blob/main/Assets/banner.gif)
-<h1 align="center">Hi <a target="_blank" href="#"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Hi.gif" width="30" /></a>, I'm Supragya Gandotra</h1>
+<h1 align="center"> Hi <a target="_blank" href="#"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Hi.gif" width="30" /></a>, I'm Supragya Gandotra</h1>
 <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
 <h3 align="center"><a target="_blank" href="#"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Hi.gif" width="20" /></a> Hey! I'm a 2nd-year BTech CS student at UPES Dehradun, passionate about coding, design, and development. As a budding Software Developer <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Developer.gif" width="30px"/> </a> and Design Enthusiast <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Designer.gif" width="30px"/> </a>, I also enjoy speed cubing and fitness. Check out my diverse <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Mario_Hello_Big.gif" width="20px"/> </a>projects on GitHub, ranging from dynamic web apps to precise algorithms. Let's connect, learn, and make an impact through coding!  <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/rocket.gif" width="30" /> </a></h3>
 <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
@@ -9,11 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supragya1&theme=dracula&row=2&column=4" alt="supragya1" /></a> </p>
 
-- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/coin.gif" width="20px" /> I’m currently *learning* **Web development**
-- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/hmm.gif" width="20px" /> *Ask* me about **Data Structures** and **Algorithms**,**C**, **Java** and **Python**
-- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/happy-unscreen.gif" width="20px" /> **Fun fact** : I *listen* **songs** while **programming**
-- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/gandalf_parrot.gif" width="20px" /> ***Speedcuber*** with a *swift* **PB** of **15.57s**, *averaging* **18.64s** *two-handed*, and *conquering* **one-handed** solves at an *average* of **35s**. *Always* up     for a **cubing challenge!**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/coin.gif" width="20px" /> I’m currently *delving* into the world of **Web development**.
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/hmm.gif" width="20px" /> Feel free to *throw* *questions* at me about **Data Structures**, **Algorithms**, **C**, **Java**, and **Python**.
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/happy-unscreen.gif" width="20px" /> **Fun fact** :I *tune* into **songs** while *immersed* in **programming**.
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/gandalf_parrot.gif" width="20px" /> ***Speedcuber*** with a *swift* **PB** of **15.57s**, *averaging* **18.64s** *two-handed*, and *conquering* **one-handed** solves at an *average* of **35s**.
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Medal.gif" width="20px" /> *Always* up for a **Cubing Challenge!**
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/wave.gif" width="20px" /> How to **reach** me **Supragya.107073@stu.upes.ac.in** , **ssg.gandotra@gmail.com**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/powerup.gif" width="20px" /> **Bonus:** I'm keenly *interested* in **development**—be it **Apps**, **Web Platforms**, or **Games**.
 <img src="https://github.com/Supragya1/Supragya1/blob/main/border.gif" width="1100" height="10">
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
