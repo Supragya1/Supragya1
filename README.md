@@ -34,7 +34,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/flask.svg" alt="Flask" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/flask-logo.png" alt="Flask" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
@@ -53,7 +53,7 @@
 <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angularjs" width="40" height="40"/> </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/nextjs.png" alt="Next.js" width="40" height="40"/> </a> 
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/threejs.png" alt="Three.js" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/nestjs-icon.svg" alt="Nest.js" width="40" height="40"/> </a>
@@ -74,9 +74,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Unreal_Engine_Logo.svg.png" alt="Unreal Engine 5" width="40" height="40"/> </a> 
+<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/unreal.png" alt="Unreal Engine 5" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/premiere%20pro.png" alt="premiere pro" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/aftereffect.png" alt="after effects" width="40" height="40"/> </a></p>
 <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
