@@ -14,6 +14,7 @@
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/happy-unscreen.gif" width="20px" /> **Fun fact** :I *tune* into **songs** while *immersed* in **programming**.
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/gandalf_parrot.gif" width="20px" /> ***Speedcuber*** with a *swift* **PB** of **15.57s**, *averaging* **18.64s** *two-handed*, and *conquering* **one-handed** solves at an *average* of **35s**.
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Medal.gif" width="20px" /> *Always* up for a **Cubing Challenge!**
+- <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/gandalf_parrot.gif" width="20px" /> ***Personal Portfolio*** **https://supragya-portfolio.vercel.app/**
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/wave.gif" width="20px" /> How to **reach** me **Supragya.107073@stu.upes.ac.in** , **ssg.gandotra@gmail.com**
 - <img alt="GIF" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/powerup.gif" width="20px" /> **Bonus:** I'm keenly *interested* in **development**—be it **Apps**, **Web Platforms**, or **Games**.
 <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
@@ -85,3 +86,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supragya1&show_icons=true&locale=en&layout=donut&theme=omni" alt="supragya1" height="200" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supragya1&show_icons=true&locale=en&theme=jolly&icon_color=F8D866" alt="supragya1" height="200" /></p>
 <p><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Supragya1&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
+<h3 align="left">📊 LeetCode Stats:</h3>
+<p><a href="https://leetcode.com/u/supragya1/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Supragya1?theme=unicorn&ext=contest" alt="supragya1" height="300"/></a></p>
+<p><a href="https://leetcode.com/u/supragya1/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/Supragya1?theme=unicorn&ext=heatmap" alt="supragya1" height="300"/></a></p>
