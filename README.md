@@ -6,7 +6,7 @@
 <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supragya1&label=Profile%20views&color=0e75b6&style=flat" alt="supragya1" /> </p>
 <img align ="right" alt = "coding" width ="250px" src ="https://github.com/Supragya1/Supragya1/blob/main/Assets/coding.gif">
-<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/061a1531-d0ec-491d-a625-2983ee263a2a"><img align="right" alt="MLSA Beta" width="180px" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/LevelBeta.png"></a>
+<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/061a1531-d0ec-491d-a625-2983ee263a2a"><img align="right" alt="MLSA Beta" width="170px" src="https://github.com/Supragya1/Supragya1/blob/main/Assets/LevelBeta.png"></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supragya1&theme=dracula&row=2&column=4" alt="supragya1" width="400px" /></a> </p>
 
